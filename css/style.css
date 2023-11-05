@@ -138,11 +138,11 @@ header{
 .s_form input{
 	width: 308px;
 	font-family: 'Playfair Display', serif;
-    font-size: 14px;
-    font-weight: 400;
-    color: #626262;
-    padding-bottom: 12px;
-    padding-right: 50px;
+	font-size: 14px;
+	font-weight: 400;
+	color: #626262;
+	padding-bottom: 12px;
+	padding-right: 50px;
 	border: none;
 	background: transparent;
 	border-bottom: 1px solid black;
@@ -180,11 +180,12 @@ header{
 	border: 1px solid #626262;
 	font-size: 20px;
 	font-family: 'Playfair Display', serif;
-    font-weight: 400;
-    color: #626262;
-    width: 164px;
+        font-weight: 400;
+        color: #626262;
+        width: 164px;
 	height: 62px;
 	transition: linear .33s;
+	cursor: pointer;
 }
 .load button:hover{
 	background-color: #626262;
